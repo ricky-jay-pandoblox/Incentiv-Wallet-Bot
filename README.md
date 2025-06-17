@@ -45,8 +45,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### 🔑 Keywords
 
-- gata 
-- gataxyz 
-- gata-bot 
-- gata-auto-bot
+- nodejs
+- bot
+- testnet
+- airdrop
+- incentiv
+- incentiv-testnet
+- incentiv-bot
 ---
